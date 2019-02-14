@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: url(../images/wild-west.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arbutus', cursive;
+}
+.jumbotron {
+    background-color: rgba(186, 215, 243, .8);
+    border-bottom: solid rgb(96, 106, 107);
+}
+.jumbotron h1 {
+    font-size: 5rem;
+    color: rgb(96, 106, 107);
+    text-shadow:  0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+#gameBoard {
+    background-color: rgba(186, 215, 243, .4);
+    border: solid rgb(96, 106, 107);
+    position: relative;
+}
+#gameBoard img {
+    width: 100%;
+}
+
+.card {
+    background-color: rgba(186, 215, 243, .4);
+    border: solid 1px rgb(96, 106, 107);
+}
+
+.card p {
+    font-size: 2rem;
+    color: #fff;
+}
+.numbers {
+    font-size: 4rem;
+}
