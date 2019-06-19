@@ -8,9 +8,10 @@ Word guessing game.
 
 ## Getting Started
 
-1. Select Difficulty
-2. Use keyboard to guess letters
-3. "Wins" will accumulate while you still have "Guesses left"
+1. Select Difficulty.
+2. Use keyboard to guess letters.
+3. "Wins" will accumulate while you still have "Guesses left".
+4. Select the "Reset" button to start over.
 
 ## Technologies
 
