@@ -8,6 +8,8 @@ Western themed word guessing game.
 
 ## Getting Started
 
+[Test it out!](https://mahume.github.io/wild-west-hangman)
+
 1. Select Difficulty.
 2. Use keyboard to guess letters.
 3. "Wins" will accumulate while you still have "Guesses left".
