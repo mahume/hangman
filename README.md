@@ -1,6 +1,6 @@
 # Hangman
 
-![Homepage]('./src/images/homepage.png')
+![Homepage](./src/assets/images/homepage.png)
 
 ## Getting Started
 
