@@ -4,7 +4,7 @@
 
 ## About
 
-Word guessing game.
+Western themed word guessing game.
 
 ## Getting Started
 

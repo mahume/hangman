@@ -10,14 +10,14 @@ let blankWordArray = [];
 let wrongLettersArray = [];
 let wordSplitToArray = [];
 const easyWords = [
-  'border',
-  'cookies',
-  'plates',
-  'monkey',
-  'relationship',
-  'university',
-  'rabbit',
-  'hamburger',
+  'wagon',
+  'horse',
+  'lasso',
+  'guns',
+  'cattle',
+  'indians',
+  'rifle',
+  'saloon',
 ];
 const hardWords = [
   'crypt',
