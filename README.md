@@ -1,4 +1,4 @@
-# Hangman
+# Wild West Hangman
 
 ![Homepage](./src/assets/images/homepage.png)
 
