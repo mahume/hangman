@@ -1,8 +1,13 @@
 # Hangman
 
+![Homepage]('./src/images/homepage.png')
+
 ## Getting Started
 
+
+
 ## Built With
+
 - HTML5
 - CSS3
     - Bootstrap 4
@@ -10,4 +15,5 @@
 
 
 ## Author
-Mike Hume
+
+[Mike Hume](https://mahume.github.io/)
