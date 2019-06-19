@@ -14,7 +14,7 @@ Word guessing game.
 
 ## Technologies
 
-Built using using core front-end technologies. Structured using HTML5. Layout with Bootstrap4's grid system and basic CSS3 styling. Functionality is written with vanilla JavaScript.
+Built using using core front-end technologies. Basic structure using HTML5. Layout and styling done with Bootstrap4's grid system and CSS3. Functionality is written in vanilla JavaScript.
 
 - HTML5
 - CSS3
