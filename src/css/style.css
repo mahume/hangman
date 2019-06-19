@@ -2,7 +2,7 @@ html {
     height: 100%;
 }
 body {
-    background-image: url(../images/wild-west.jpg);
+    background-image: url(../assets/images/wild-west.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'Arbutus', cursive;
